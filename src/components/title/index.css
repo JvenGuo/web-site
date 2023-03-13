@@ -1,0 +1,35 @@
+.title-wrapper {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+
+h1 {
+  font-family: helvetica neue, Helvetica, hiragino sans gb, microsoft yahei,
+    serif;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+img {
+  height: 300px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+p {
+  font-size: 40px;
+}
+
+.right {
+  margin-left: 20px;
+}
