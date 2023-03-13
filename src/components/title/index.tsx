@@ -13,7 +13,7 @@ const Hello = () => {
       <div className="wrapper">
         <div className="left">
           <h1>刘锐</h1>
-          <p>是个弟弟</p>
+          <p>是个弟弟哦</p>
           <p>就是这个吊毛👉</p>
         </div>
         <div className="right">
