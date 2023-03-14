@@ -15,9 +15,6 @@ const Hello = () => {
           <h1>Sky~</h1>
           <h1>🦁️</h1>
         </div>
-        {/* <div className="right">
-          <img src={lrImg} alt="" />
-        </div> */}
       </div>
     </div>
   );
