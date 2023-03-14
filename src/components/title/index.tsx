@@ -4,7 +4,7 @@
  * @Description: title
  */
 import React from "react";
-import lrImg from "../../assets/lr.jpg";
+// import lrImg from "../../assets/lr.jpg";
 import "./index.css";
 
 const Hello = () => {
@@ -12,13 +12,12 @@ const Hello = () => {
     <div className="title-wrapper">
       <div className="wrapper">
         <div className="left">
-          <h1>刘锐</h1>
-          <p>是个弟弟哦</p>
-          <p>就是这个吊毛👉</p>
+          <h1>Sky~</h1>
+          <h1>🦁️</h1>
         </div>
-        <div className="right">
+        {/* <div className="right">
           <img src={lrImg} alt="" />
-        </div>
+        </div> */}
       </div>
     </div>
   );
